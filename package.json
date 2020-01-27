@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/chai": "^3.4.31",
     "@types/mocha": "^2.2.30",
-    "@types/node": "^6.0.37",
+    "@types/node": "^13.5.0",
     "@types/systemjs": "^0.19.29",
     "chai": "^3.4.1",
     "chokidar-socket-emitter": "^0.5.0",
