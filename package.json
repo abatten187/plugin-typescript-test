@@ -28,7 +28,7 @@
     "typescript": "^2.0.0"
   },
   "devDependencies": {
-    "@types/chai": "^3.4.31",
+    "@types/chai": "^4.2.7",
     "@types/mocha": "^2.2.30",
     "@types/node": "^6.0.37",
     "@types/systemjs": "^0.19.29",
