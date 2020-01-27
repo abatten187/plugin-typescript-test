@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/chai": "^3.4.31",
-    "@types/mocha": "^2.2.30",
+    "@types/mocha": "^5.2.7",
     "@types/node": "^6.0.37",
     "@types/systemjs": "^0.19.29",
     "chai": "^3.4.1",
